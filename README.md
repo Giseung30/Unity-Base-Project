@@ -6,4 +6,13 @@
 + 코어 : `Universal RP`
 
 ## 🧱 프로젝트 구성
-<img src="https://github.com/user-attachments/assets/4f5d40fd-a763-4c05-88b5-3a26cb4e401a"/>
+```
+📁 Assets
+├── 📁 Scenes
+│   └── 🎮 Main Scene.unity
+└── 📁 Settings 
+    ├── 🛠️ Default Volume.asset
+    ├── 🧰 URP Asset.asset
+    ├── ⚙️ URP Global Settings.asset
+    └── 🎨 URP Renderer.asset
+```
